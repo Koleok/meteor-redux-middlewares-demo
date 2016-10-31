@@ -364,8 +364,8 @@ meteor-node-stubs@~0.2.0:
     vm-browserify "0.0.4"
 
 meteor-redux-middlewares:
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/meteor-redux-middlewares/-/meteor-redux-middlewares-2.0.2.tgz#3f44b59451fd74b12b2e8b69669a720af81f9698"
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/meteor-redux-middlewares/-/meteor-redux-middlewares-2.0.3.tgz#96870ffd5a46c9efd254b939aacce758d7dfa964"
 
 miller-rabin@^4.0.0:
   version "4.0.0"
